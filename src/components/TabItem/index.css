@@ -1,0 +1,16 @@
+/* Write your CSS here */
+button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 2px #7b8794 solid;
+  font-size:18px;
+}
+
+.activeBtn{
+   background-color: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 2px #2563eb solid;
+  color: #2563eb;
+}
