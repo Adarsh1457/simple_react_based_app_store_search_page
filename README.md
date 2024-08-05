@@ -1,6 +1,3 @@
-Here is the revised version from your point of view for the App Store project:
-
----
 
 In this project, I built an **App Store** by applying the concepts I have learned so far. 📱🛒
 
